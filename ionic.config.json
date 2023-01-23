@@ -1,0 +1,8 @@
+{
+  "name": "AndroidApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "3f2974e6"
+}
